@@ -81,9 +81,7 @@ Made with :heart: by :\
 <a href="https://github.com/Bri4n-d3V" target="_blank">Brian Caetano</a>\
 <a href="https://github.com/KelvinWevertor" target="_blank">Kelvin Costa</a>\
 <a href="https://github.com/Guinxard" target="_blank">Lucas Farias</a>\
-<a href="https://github.com/thiagooshiro" target="_blank">Thiago Oshiro</a>\
-
-
+<a href="https://github.com/thiagooshiro" target="_blank">Thiago Oshiro</a>
 
 &#xa0;
 
