@@ -62,10 +62,10 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/Guinxard/recipes-app
+$ git clone git@github.com:Guinxard/RecipesApp.git
 
 # Access
-$ cd recipes-app
+$ cd RecipesApp
 
 # Install dependencies
 $ yarn/npm install
